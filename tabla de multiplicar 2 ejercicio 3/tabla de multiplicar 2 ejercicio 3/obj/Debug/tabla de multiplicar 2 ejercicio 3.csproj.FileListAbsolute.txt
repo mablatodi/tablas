@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\bin\Debug\tabla de multiplicar 2 ejercicio 3.exe.config
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\bin\Debug\tabla de multiplicar 2 ejercicio 3.exe
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\bin\Debug\tabla de multiplicar 2 ejercicio 3.pdb
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\obj\Debug\tabla de multiplicar 2 ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\obj\Debug\tabla de multiplicar 2 ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\obj\Debug\tabla de multiplicar 2 ejercicio 3.exe
+C:\Users\pc\source\repos\tabla de multiplicar 2 ejercicio 3\tabla de multiplicar 2 ejercicio 3\obj\Debug\tabla de multiplicar 2 ejercicio 3.pdb
